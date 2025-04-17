@@ -7,10 +7,6 @@
 
 <h1 align="center">مرحباً 👋، أنا [اسمك هنا]</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=2F80ED¢er=true&vCenter=true&random=false&width=435&lines=تقني+عامّاً;مهندس+برمجيات;متخصص+في+الأمن+السيبراني" alt="Typing SVG - أدواري" />
-</p>
-
 ## 👨‍💻 عني
 
 أنا شغوف بالتكنولوجيا وأسعى دائمًا لاستكشاف وتطبيق أحدث التقنيات في مجالات تطوير البرمجيات، تصميم الأنظمة، والأمن السيبراني. أستمتع بحل المشكلات المعقدة وبناء حلول برمجية فعالة وآمنة.
@@ -55,11 +51,11 @@
 
 <p align="center">
   <!-- استبدل YOUR_GITHUB_USERNAME باسم المستخدم الخاص بك -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=ar" alt="إحصائيات GitHub" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&locale=ar" alt="أكثر اللغات استخدامًا" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarhan-emad-sarhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=ar" alt="إحصائيات GitHub" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarhan-emad-sarhan&layout=compact&langs_count=8&theme=radical&locale=ar" alt="أكثر اللغات استخدامًا" height="180em"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&locale=ar&date_format=j%20M%5B%20Y%5D" alt="إحصائيات الـ Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarhan-emad-sarhan&theme=radical&locale=ar&date_format=j%20M%5B%20Y%5D" alt="إحصائيات الـ Streak" />
 </p>
 
 ---
@@ -68,7 +64,7 @@
 
 <p align="center">
   <!-- استبدل YOUR_GITHUB_USERNAME باسم المستخدم الخاص بك -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=%D8%B9%D8%AF%D8%AF+%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sarhan-emad-sarhan&label=%D8%B9%D8%AF%D8%AF+%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
