@@ -3,7 +3,7 @@
   <!-- 1. تأثير الكتابة المتحرك للنص الرئيسي -->
   <h1> 
     <img src="https://readme-typing-svg.demolab.com/?font=monospace&weight=bold&size=30&pause=1000&color=000000¢er=true&vCenter=true&random=false&width=450&lines=I'm+a+Technologist;I'm+a+Software+Engineer;I'm+a+Cyber+Security+Specialist" alt="Typing SVG - My Roles" />
-    <!-- 
+    <
       شرح المعلمات في الرابط أعلاه:
       ?font=monospace         : نوع الخط (يمكنك تجربة Fira+Code, sans-serif, etc.)
       &weight=bold            : وزن الخط (غامق)
@@ -18,7 +18,7 @@
                                 I'm+a+Technologist             (تقني عمومًا)
                                 I'm+a+Software+Engineer        (مهندس برمجيات)
                                 I'm+a+Cyber+Security+Specialist (متخصص في الأمن السيبراني)
-    -->
+    
   </h1>
 
   <!-- 2. قائمة التقنيات (كنص ثابت أو تأثير كتابة آخر) -->
@@ -29,18 +29,16 @@
   </p>
 
   <!-- الخيار ب: تأثير كتابة آخر لقائمة التقنيات (قد يكون مزدحمًا بصريًا) -->
-  <!-- 
+  
   <p>
     <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=18&pause=1000&color=333333¢er=true&vCenter=true&random=false&width=600&lines=Javascript+%7C+NodeJS+%7C+HTML+%7C+CSS;C%2B%2B+%7C+Python+%7C+SQL;Linux+%7C+Kali+%7C+Ubuntu;Arduino+%7C+Raspberry+Pi;Photoshop+%7C+Figma+%7C+Canva" alt="Typing SVG - My Skills" />
   </p> 
-  -->
+  
   
 </div>
 
 <!-- ملاحظة: لإضافة الخلفية الشبيهة بالصورة، ستحتاج إلى تصميم صورة رأس (Header Banner) -->
 <!-- ووضعها في بداية الملف، مثل: -->
-<!-- 
 <p align="center">
   <img src="رابط_صورة_الخلفية_الخاصة_بك.png_أو_gif" alt="Header Banner" width="800"/>
 </p> 
--->
