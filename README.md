@@ -1,44 +1,56 @@
+<h2 align="left">Hi 👋! <br>I'm sarhan, welcome to my porfile.</h2>
+
+###
+
 <div align="center">
-
-  <!-- 1. تأثير الكتابة المتحرك للنص الرئيسي -->
-  <h1> 
-    <img src="https://readme-typing-svg.demolab.com/?font=monospace&weight=bold&size=30&pause=1000&color=000000¢er=true&vCenter=true&random=false&width=450&lines=I'm+a+Technologist;I'm+a+Software+Engineer;I'm+a+Cyber+Security+Specialist" alt="Typing SVG - My Roles" />
-    <
-      شرح المعلمات في الرابط أعلاه:
-      ?font=monospace         : نوع الخط (يمكنك تجربة Fira+Code, sans-serif, etc.)
-      &weight=bold            : وزن الخط (غامق)
-      &size=30                : حجم الخط
-      &pause=1000             : مدة التوقف (بالمللي ثانية) بعد اكتمال كل سطر
-      &color=000000           : لون الخط (000000 هو الأسود)
-      ¢er=true            : توسيط النص أفقيًا
-      &vCenter=true           : توسيط النص عموديًا (داخل الصورة)
-      &width=450              : عرض الصورة (يساعد في التوسيط وضمان عدم قص النص)
-      &lines=...              : النصوص التي ستظهر بالتناوب. استخدم + بدل المسافة، و %3B بدل الفاصلة المنقوطة للفصل بين الجمل.
-                                لقد استخدمت المرادفات الإنجليزية لما طلبته:
-                                I'm+a+Technologist             (تقني عمومًا)
-                                I'm+a+Software+Engineer        (مهندس برمجيات)
-                                I'm+a+Cyber+Security+Specialist (متخصص في الأمن السيبراني)
-    
-  </h1>
-
-  <!-- 2. قائمة التقنيات (كنص ثابت أو تأثير كتابة آخر) -->
-  
-  <!-- الخيار أ: قائمة ثابتة (أبسط وأكثر شيوعًا) -->
-  <p>
-    <code>JavaScript</code> | <code>NodeJS</code> | <code>HTML</code> | <code>CSS</code> | <code>C++</code> | <code>Python</code> | <code>SQL</code> | <code>Linux</code> | <code>Arduino</code> | <code>Raspberry Pi</code> | <code>Photoshop</code> | <code>Figma</code> | <code>Canva</code>
-  </p>
-
-  <!-- الخيار ب: تأثير كتابة آخر لقائمة التقنيات (قد يكون مزدحمًا بصريًا) -->
-  
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=18&pause=1000&color=333333¢er=true&vCenter=true&random=false&width=600&lines=Javascript+%7C+NodeJS+%7C+HTML+%7C+CSS;C%2B%2B+%7C+Python+%7C+SQL;Linux+%7C+Kali+%7C+Ubuntu;Arduino+%7C+Raspberry+Pi;Photoshop+%7C+Figma+%7C+Canva" alt="Typing SVG - My Skills" />
-  </p> 
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=sarhan-emad-sarhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarhan-emad-sarhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<!-- ملاحظة: لإضافة الخلفية الشبيهة بالصورة، ستحتاج إلى تصميم صورة رأس (Header Banner) -->
-<!-- ووضعها في بداية الملف، مثل: -->
-<p align="center">
-  <img src="رابط_صورة_الخلفية_الخاصة_بك.png_أو_gif" alt="Header Banner" width="800"/>
-</p> 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sarhan-emad-sarhan/sarhan-emad-sarhan/output/snake.svg" alt="Snake animation" />
+
+###
